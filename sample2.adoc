@@ -1,4 +1,10 @@
+:author: 田中 太郎
+:revdate: 2023/01/30
+:revnumber: x.x.x
+:lang: ja
+:doctype: book
 :title-page:
+:pdf-theme: theme.yml
 
 = Hoge Title
 Author Name
