@@ -1,0 +1,8 @@
+
+:title-page:
+:title-page-background-image: image:bg.jpg[]
+:title-logo-image: image:lena.jpg[top=25%,align=center,pdfwidth=0.5in]
+
+= Hoge Title
+Author Name
+v1.0, 2020-02-20

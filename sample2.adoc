@@ -1,0 +1,5 @@
+:title-page:
+
+= Hoge Title
+Author Name
+v1.0, 2020-02-20
